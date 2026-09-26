@@ -24,7 +24,7 @@ a{text-decoration:none;color:inherit}
 .btn-outline{border:1px solid #56667b;color:#fff}.btn-outline:hover{border-color:var(--green);color:var(--green)}
 .hero-meta{display:flex;flex-wrap:wrap;gap:20px;margin-top:26px;color:#aab7c6;font-size:10px}
 .hero-visual{position:relative;display:flex;justify-content:center;align-items:center;min-height:390px}
-.photo-frame{width:275px;height:330px;border:1px solid rgba(64,216,154,.6);border-radius:8px;overflow:hidden;position:relative;background:linear-gradient(135deg,#243a50,#0e1a2b);box-shadow:0 20px 60px rgba(0,0,0,.28)}
+.photo-frame{width:200px;height:300px;border:1px solid rgba(64,216,154,.6);border-radius:8px;overflow:hidden;position:relative;background:linear-gradient(135deg,#243a50,#0e1a2b);box-shadow:0 20px 60px rgba(0,0,0,.28)}
 .photo-frame img{width:100%;height:100%;object-fit:cover}
 .photo-fallback{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;color:#7890a5}
 .photo-frame:not(.photo-placeholder) .photo-fallback{display:none}
